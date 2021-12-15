@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'twcc.top',
   author: 'twc',
   email: 'solenya233@qq.com',
   link: 'https://nobelium.vercel.app',
